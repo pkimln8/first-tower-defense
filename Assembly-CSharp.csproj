@@ -38,6 +38,7 @@
   <ItemGroup>
      <Compile Include="Assets/Waypoints.cs" />
      <Compile Include="Assets/Enemy.cs" />
+     <Compile Include="Assets/WaveSpawner.cs" />
     <Reference Include="UnityEngine">
         <HintPath>/Applications/Unity/Hub/Editor/2021.3.15f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
